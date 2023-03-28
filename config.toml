@@ -1,0 +1,62 @@
+# The URL the site will be built for
+base_url = "https://homogeneity-workshop.netlify.app/"
+title = "HNM2"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+theme = "DeepThought"
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
+
+# Enable external libraries
+[extra]
+katex.enabled = true
+katex.auto_render = true
+
+chart.enabled = false
+mermaid.enabled = false
+galleria.enabled = false
+
+navbar_items = [
+ { code = "en", nav_items = [
+  { url = "$BASE_URL/", name = "Home" },
+  { url = "$BASE_URL/call",    name = "Call for Abstracts" },
+  # { url = "$BASE_URL/program", name = "Program" },
+  { url = "$BASE_URL/registration", name = "Registration" },
+ ]},
+]
+
+# Add links to favicon, you can use https://realfavicongenerator.net/ to generate favicon for your site
+[extra.favicon]
+favicon_16x16 = "/icons/favicon-16x16.png"
+favicon_32x32 = "/icons/favicon-32x32.png"
+apple_touch_icon = "/icons/apple-touch-icon.png"
+safari_pinned_tab = "/icons/safari-pinned-tab.svg"
+webmanifest = "/icons/site.webmanifest"
+
+# Author details
+# [extra.author]
+# name = "Workshop "
+# avatar = "/images/avatar.png"
+
+# Social links
+[extra.social]
+email = "hnm1.workshop@aol.com"
+
+
+
+
+# To add disqus comments
+[extra.commenting]
+disqus = "<your_disqus_shortname>"
+
+# To enable mapbox maps
+[extra.mapbox]
+enabled = false
+access_token = "<your_access_token>"

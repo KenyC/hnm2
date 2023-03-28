@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://homogeneity-workshop.netlify.app//sitemap.xml
