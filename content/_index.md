@@ -13,9 +13,9 @@ For more information on submission, please refer to our [call for abstracts](/ca
 
 **Where:** University of Vienna (with option for online attendance)  
 **When:** July 19<sup>th</sup> -20<sup>th</sup>  
-**Registration:** [TBA](TODO)
+**Registration:** TBA
 
-You can reach us at [TODO](mailto:TODO)
+You can reach us at [hnm2.workshop@aol.com](mailto:hnm2.workshop@aol.com)
 
 **Organizing committee:** 
 

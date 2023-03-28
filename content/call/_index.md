@@ -9,7 +9,7 @@ title = "Call for Abstracts"
   - References, figures and glossed examples may be added on additional pages exceeding the 3-page limit.
   - Abstracts should be anonymized and submitted in PDF format.
   - **Deadline:** May 15th, 12:00 (noon) EST/18:00 CET
-  - Any questions may be sent to [EMAIL ACCOUNT](mailto:TODO)
+  - Any questions may be sent to [hnm2.workshop@aol.com](mailto:hnm2.workshop@aol.com)
   - Submit to [Easy Chair](https://easychair.org/conferences/?conf=hnm2)
 
 
