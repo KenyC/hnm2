@@ -5,7 +5,7 @@ description = "HNM2 — Gaps and imprecision in natural language semantics: homo
 
 
 
-This online workshop aims to gather semanticists and psycholinguists interested by homogeneity gaps and non-maximality, in plural predication and beyond. The workshop will feature talks reporting on new research in this area, as well as round tables discussing the state of the art and avenues for future research.
+This online workshop aims to gather semanticists and psycholinguists interested by homogeneity gaps and non-maximality, in plural predication and beyond. The workshop will feature talks reporting on new research in this area as well as two invited talks (speakers TBA).
 
 For more information on submission, please refer to our [call for abstracts](/call).
 
