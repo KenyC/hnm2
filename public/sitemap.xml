@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://homogeneity-workshop.netlify.app/</loc>
+        <loc>https://hnm2-workshop.netlify.app/</loc>
     </url>
     <url>
-        <loc>https://homogeneity-workshop.netlify.app/call/</loc>
+        <loc>https://hnm2-workshop.netlify.app/call/</loc>
     </url>
     <url>
-        <loc>https://homogeneity-workshop.netlify.app/program/</loc>
+        <loc>https://hnm2-workshop.netlify.app/program/</loc>
     </url>
     <url>
-        <loc>https://homogeneity-workshop.netlify.app/registration/</loc>
+        <loc>https://hnm2-workshop.netlify.app/registration/</loc>
     </url>
 </urlset>
