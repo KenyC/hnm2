@@ -8,7 +8,8 @@ title = "Call for Abstracts"
   - The main text of the abstract should be at most **3 pages** (Times New Roman, 12pt, 2.5cm margin).
   - References, figures and glossed examples may be added on additional pages exceeding the 3-page limit.
   - Abstracts should be anonymized and submitted in PDF format.
-  - **Deadline:** May 15th, 12:00 (noon) EST/18:00 CET
+  - <span class="strikeout">**Deadline:** May 15th, 12:00 (noon) EST/18:00 CET</span>   
+    ↪ **Deadline extension:** May 22nd, 12:00 (noon) EST/18:00 CET
   - Any questions may be sent to [hnm2.workshop@aol.com](mailto:hnm2.workshop@aol.com)
   - Submit to [Easy Chair](https://easychair.org/conferences/?conf=hnm2)
 

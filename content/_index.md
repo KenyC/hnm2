@@ -7,9 +7,11 @@ description = "HNM2 — Gaps and imprecision in natural language semantics: homo
 
 This workshop aims to gather semanticists and psycholinguists interested by homogeneity gaps and non-maximality, in plural predication and beyond. The workshop will feature talks reporting on new research in this area as well as two invited talks (speakers TBA).
 
+This workshop is supported by funding from [the Van Riemsdinjk Foundation](https://vanriemsdijkfoundation.org/).
+
 For more information on submission, please refer to our [call for abstracts](/call).
 
-<!-- **⚠ Submission deadline extended to Sept. 22 ⚠** -->
+**⚠ Submission deadline extended to May 22 5pm CET ⚠**
 
 **Where:** University of Vienna (with option for online attendance)  
 **When:** July 19<sup>th</sup> -20<sup>th</sup>  
