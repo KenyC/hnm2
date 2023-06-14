@@ -27,8 +27,8 @@ navbar_items = [
  { code = "en", nav_items = [
   { url = "$BASE_URL/", name = "Home" },
   { url = "$BASE_URL/call",    name = "Call for Abstracts" },
+  { url = "$BASE_URL/registration", name = "Registration" },
   # { url = "$BASE_URL/program", name = "Program" },
-  # { url = "$BASE_URL/registration", name = "Registration" },
  ]},
 ]
 
