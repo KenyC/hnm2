@@ -7,7 +7,7 @@ description = "HNM2 — Gaps and imprecision in natural language semantics: homo
 
 This workshop aims to gather semanticists and psycholinguists interested by homogeneity gaps and non-maximality, in plural predication and beyond. The workshop will feature talks reporting on new research in this area as well as two invited talks by [Stephanie Solt](https://www.leibniz-zas.de/en/people/details/solt-stephanie/stephanie-solt/) and [Yasutada Sudo](https://www.ucl.ac.uk/~ucjtudo/).
 
-This workshop is supported by funding from [the Van Riemsdinjk Foundation](https://vanriemsdijkfoundation.org/).
+This workshop is supported by funding from [the Van Riemsdinjk Foundation](https://vanriemsdijkfoundation.org/) and organized with the help of [the university of Göttingen](https://www.uni-goettingen.de/en/447150.html).
 
 For more information on submission, please refer to our [call for abstracts](/call).
 
