@@ -174,7 +174,7 @@ Download in [PDF](../schedule.pdf)
 <h2>Thursday, July 20th</h2>
 <table border="0" cellspacing="0" cellpadding="0" class="Table">
     <tr>
-        <td style="text-align:left;width:1.375in; " class="firstcol">
+        <td style="width:1.375in;" class="firstcol">
             <p class="P8">10:00 – 11:00 CET</p>
         </td>
         <td style="text-align:left;width:5.3181in; " class="Table_cell">
@@ -185,7 +185,7 @@ Download in [PDF](../schedule.pdf)
         </td>
     </tr>
     <tr>
-        <td style="text-align:left;width:1.375in; " class="firstcol">
+        <td style="width:1.375in;" class="firstcol">
             <p class="P8">11:00 – 11:20 CET</p>
         </td>
         <td style="text-align:left;width:5.3181in; " class="Table_cell">
@@ -193,7 +193,7 @@ Download in [PDF](../schedule.pdf)
         </td>
     </tr>
     <tr>
-        <td style="text-align:left;width:1.375in; " class="firstcol">
+        <td style="width:1.375in;" class="firstcol">
             <p class="P8">11:20 – 12:40 CET</p>
         </td>
         <td style="text-align:left;width:5.3181in; " class="Table_cell">
@@ -209,7 +209,7 @@ Download in [PDF](../schedule.pdf)
         </td>
     </tr>
     <tr>
-        <td style="text-align:left;width:1.375in; " class="firstcol">
+        <td style="width:1.375in;" class="firstcol">
             <p class="P8">12:40 – 14:00 CET</p>
         </td>
         <td style="text-align:left;width:5.3181in; " class="Table_cell">
@@ -217,7 +217,7 @@ Download in [PDF](../schedule.pdf)
         </td>
     </tr>
     <tr>
-        <td style="text-align:left;width:1.375in; " class="firstcol">
+        <td style="width:1.375in;" class="firstcol">
             <p class="P8">14:00 – 15:00 CET</p>
         </td>
         <td style="text-align:left;width:5.3181in; " class="Table_cell">
@@ -237,7 +237,7 @@ Download in [PDF](../schedule.pdf)
         </td>
     </tr>
     <tr>
-        <td style="text-align:left;width:1.375in; " class="firstcol">
+        <td style="width:1.375in;" class="firstcol">
             <p class="P8">15:00 – 15:20 CET</p>
         </td>
         <td style="text-align:left;width:5.3181in; " class="Table_cell">
@@ -245,7 +245,7 @@ Download in [PDF](../schedule.pdf)
         </td>
     </tr>
     <tr>
-        <td style="text-align:left;width:1.375in; " class="firstcol">
+        <td style="width:1.375in;" class="firstcol">
             <p class="P8">15:20 – 16:40 CET</p>
         </td>
         <td style="text-align:left;width:5.3181in; " class="Table_cell">
