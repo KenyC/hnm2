@@ -25,7 +25,7 @@ title = "Program"
 
 Download in [PDF](../schedule.pdf)
 
-<h2>Friday, November 18</h2>
+<h2>Wednesday, July 19th</h2>
 
 
 <table border="0" cellspacing="0" cellpadding="0" class="Table">
