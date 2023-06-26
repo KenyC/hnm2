@@ -31,7 +31,7 @@ Download in [PDF](../schedule.pdf)
 <table border="0" cellspacing="0" cellpadding="0" class="Table">
     <tr>
         <td style="width:20%; " class="firstcol">
-            10:00 – 11:00 CET
+            10:00 – 11:00 CEST
         </td>
         <td style="text-align:left;width:0.0618in; " class="Table_cell">
             <p class="CellHeader"> </p>
@@ -45,7 +45,7 @@ Download in [PDF](../schedule.pdf)
     </tr>
     <tr>
         <td style="width:20%; " class="firstcol">
-            <p class="P7">11:00 – 11:20 CET</p>
+            <p class="P7">11:00 – 11:20 CEST</p>
         </td>
         <td style="text-align:left;width:0.0618in; " class="Table_cell">
             <p class="P9"> </p>
@@ -56,7 +56,7 @@ Download in [PDF](../schedule.pdf)
     </tr>
     <tr>
         <td style="width:20%;" class="firstcol">
-            11:20 – 12:40 CET
+            11:20 – 12:40 CEST
         </td>
         <td style="text-align:left;width:0.0618in; " class="Table_cell">
             <p class="CellHeader"> </p>
@@ -76,7 +76,7 @@ Download in [PDF](../schedule.pdf)
     </tr>
     <tr>
         <td style="width:20%; " class="firstcol">
-            <p class="P7">12:40 – 14:00 CET</p>
+            <p class="P7">12:40 – 14:00 CEST</p>
         </td>
         <td style="text-align:left;width:0.0618in; " class="Table_cell">
             <p class="P9"> </p>
@@ -87,7 +87,7 @@ Download in [PDF](../schedule.pdf)
     </tr>
     <tr>
         <td style="width:20%; " class="firstcol">
-            <p class="P7">14:00 – 15:00 CET</p>
+            <p class="P7">14:00 – 15:00 CEST</p>
         </td>
         <td style="text-align:left;width:0.0618in; " class="Table_cell">
             <p class="CellHeader"> </p>
@@ -110,7 +110,7 @@ Download in [PDF](../schedule.pdf)
     </tr>
     <tr>
         <td style="width:20%; " class="firstcol">
-            <p class="P7">15:00 – 15:20 CET</p>
+            <p class="P7">15:00 – 15:20 CEST</p>
         </td>
         <td style="text-align:left;width:0.0618in; " class="Table_cell">
             <p class="P9"> </p>
@@ -121,7 +121,7 @@ Download in [PDF](../schedule.pdf)
     </tr>
     <tr>
         <td style="width:20%; " class="firstcol">
-            <p class="P7">15:20 – 16:40 CET</p>
+            <p class="P7">15:20 – 16:40 CEST</p>
         </td>
         <td style="text-align:left;width:0.0618in; " class="Table_cell">
             <p class="CellHeader"> </p>
@@ -140,7 +140,7 @@ Download in [PDF](../schedule.pdf)
     </tr>
     <tr>
         <td style="width:20%; " class="firstcol">
-            <p class="P7">16:40 – 17:00 CET</p>
+            <p class="P7">16:40 – 17:00 CEST</p>
         </td>
         <td style="text-align:left;width:0.0618in; " class="Table_cell">
             <p class="P11"> </p>
@@ -151,7 +151,7 @@ Download in [PDF](../schedule.pdf)
     </tr>
     <tr>
         <td style="width:20%; " class="firstcol">
-            <p class="P3">17:00 – 18:00 CET</p>
+            <p class="P3">17:00 – 18:00 CEST</p>
         </td>
         <td style="text-align:left;width:0.0618in; " class="Table_cell">
             <p class="CellHeader"> </p>
@@ -175,18 +175,18 @@ Download in [PDF](../schedule.pdf)
 <table border="0" cellspacing="0" cellpadding="0" class="Table">
     <tr>
         <td style="width:1.375in;" class="firstcol">
-            <p class="P8">10:00 – 11:00 CET</p>
+            <p class="P8">10:00 – 11:00 CEST</p>
         </td>
         <td style="text-align:left;width:5.3181in; " class="Table_cell">
             <p class="invited">
                 Invited talk<br>
-                <strong>Yasutada Sudo <span class="T4">(UCL) </span>and Jacopo Romoli <span class="T3">(</span>Heinrich-Heine-Universität Düsseldorf<span class="T4">)</span></strong>
+                <strong>Jacopo Romoli <span class="T3">(</span>Heinrich-Heine-Universität Düsseldorf<span class="T4">) and Yasutada Sudo <span class="T4">(UCL) </span></span></strong>
             </p>
         </td>
     </tr>
     <tr>
         <td style="width:1.375in;" class="firstcol">
-            <p class="P8">11:00 – 11:20 CET</p>
+            <p class="P8">11:00 – 11:20 CEST</p>
         </td>
         <td style="text-align:left;width:5.3181in; " class="Table_cell">
             <p class="break">Break</p>
@@ -194,7 +194,7 @@ Download in [PDF](../schedule.pdf)
     </tr>
     <tr>
         <td style="width:1.375in;" class="firstcol">
-            <p class="P8">11:20 – 12:40 CET</p>
+            <p class="P8">11:20 – 12:40 CEST</p>
         </td>
         <td style="text-align:left;width:5.3181in; " class="Table_cell">
             <p class="CellHeader">Talk session <span class="T7">3</span></p>
@@ -210,7 +210,7 @@ Download in [PDF](../schedule.pdf)
     </tr>
     <tr>
         <td style="width:1.375in;" class="firstcol">
-            <p class="P8">12:40 – 14:00 CET</p>
+            <p class="P8">12:40 – 14:00 CEST</p>
         </td>
         <td style="text-align:left;width:5.3181in; " class="Table_cell">
             <p class="break">Lunch Break</p>
@@ -218,7 +218,7 @@ Download in [PDF](../schedule.pdf)
     </tr>
     <tr>
         <td style="width:1.375in;" class="firstcol">
-            <p class="P8">14:00 – 15:00 CET</p>
+            <p class="P8">14:00 – 15:00 CEST</p>
         </td>
         <td style="text-align:left;width:5.3181in; " class="Table_cell">
             <p class="CellHeader">Squib session <span class="T1">3</span></p>
@@ -238,7 +238,7 @@ Download in [PDF](../schedule.pdf)
     </tr>
     <tr>
         <td style="width:1.375in;" class="firstcol">
-            <p class="P8">15:00 – 15:20 CET</p>
+            <p class="P8">15:00 – 15:20 CEST</p>
         </td>
         <td style="text-align:left;width:5.3181in; " class="Table_cell">
             <p class="break">Break</p>
@@ -246,7 +246,7 @@ Download in [PDF](../schedule.pdf)
     </tr>
     <tr>
         <td style="width:1.375in;" class="firstcol">
-            <p class="P8">15:20 – 16:40 CET</p>
+            <p class="P8">15:20 – 16:40 CEST</p>
         </td>
         <td style="text-align:left;width:5.3181in; " class="Table_cell">
             <p class="CellHeader">Talk session <span class="T1">4</span></p>
