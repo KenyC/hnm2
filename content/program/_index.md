@@ -27,6 +27,7 @@ Download in [PDF](../schedule.pdf)
 
 <h2>Wednesday, July 19th</h2>
 
+<p><img src="../online.svg" width = "15px"> = online presenter(s) &nbsp; <img src="../inperson.svg" width = "15px"> = presenter(s) in person &nbsp; <img src="../inperson.svg" width = "15px"><img src="../online.svg" width = "15px"> = some presenters online and some in person</p> 
 
 <table border="0" cellspacing="0" cellpadding="0" class="Table">
     <tr>
@@ -39,7 +40,7 @@ Download in [PDF](../schedule.pdf)
         <td style="text-align:left; " class="Table_cell">
             <p class="invited">
               Invited talk<br>
-              <strong>Stephanie Solt (ZAS)</strong>
+              <strong>Stephanie Solt (ZAS) <img src="../inperson.svg" width = "15px"></strong>
             </p>
         </td>
     </tr>
@@ -65,11 +66,11 @@ Download in [PDF](../schedule.pdf)
             <p class="CellHeader">Talk session 1</p>
             <p class="P13">
             <strong class="talktitle">Similative and Coordinative Compound Plurals in Persian: Alternatives, Homogeneity, or Strongest Meanings?</strong><br>
-            Fereshteh Modarresi <span class="T4">and</span> Manfred Krifka <span class="T4">(ZAS)</span>
+            Fereshteh Modarresi <span class="T4">and</span> Manfred Krifka <span class="T4">(ZAS) <img src="../online.svg" width = "15px"></span>
             </p>
             <p>
             <strong class="talktitle">Homogeneity, Negation, and Neglect Zero</strong><br>
-            Giorgio Sbardolini <span class="T4">(MCMP, Ludwig Maximilan University)</span>
+            Giorgio Sbardolini <span class="T4">(MCMP, Ludwig Maximilan University)</span> <img src="../inperson.svg" width = "15px">
             </p>
         </td>
     </tr>
@@ -95,15 +96,15 @@ Download in [PDF](../schedule.pdf)
             <p class="CellHeader">Squib session 1</p>
             <p class="P13">
             <strong class="talktitle">Non-Maximality with an Updated Cover</strong><br>
-            Jia Ren <span class="T4">(UMass Amherst)</span>
+            Jia Ren <span class="T4">(UMass Amherst)</span> <img src="../inperson.svg" width = "15px">
             </p>
             <p>
             <strong class="talktitle">Effect of time pressure on the availability of non-maximal judgments for sentences with plural definites</strong><br>
-            Angèle Bernard (Nantes Université), Flavia Nährlich (University of Groningen), Angeliek van Hout (Rjksuniversiteit Groningen) and Jennifer Spenader (Rjksuniversiteit Groningen)
+            Angèle Bernard (Nantes Université), Flavia Nährlich (University of Groningen), Angeliek van Hout (Rjksuniversiteit Groningen) and Jennifer Spenader (Rjksuniversiteit Groningen) <img src="../inperson.svg" width = "15px"><img src="../online.svg" width = "15px">
             </p>
             <p>
             <strong class="talktitle">Focus and non-maximality in out-of-the-blue contexts</strong><br>
-            Omar Agha (NYU)
+            Omar Agha (NYU) <img src="../inperson.svg" width = "15px">
             </p>
         </td>
     </tr>
@@ -129,11 +130,12 @@ Download in [PDF](../schedule.pdf)
             <p class="CellHeader">Talk session 2</p>
             <p>
             <strong class="talktitle">Homogeneity as presuppositional exhaustification</strong><br>
-            Jad Wehbe (MIT) and Janek Guerrini (ENS/PSL)
+            Jad Wehbe (MIT) and Janek Guerrini (ENS/PSL) <img src="../inperson.svg" width = "15px">
             </p>
             <p>
             <strong class="talktitle">Non-maximality without part-quantification</strong><br>
-            Mathieu Paillé <span class="T6">(University of Calgary)</span>
+            Mathieu Paillé <span class="T6">(University of Calgary) <img src="../online.svg" width = "15px">
+            </span>
             </p>
         </td>
     </tr>
@@ -161,12 +163,13 @@ Download in [PDF](../schedule.pdf)
             Flavia Nährlich<span class="T2"> </span><span class="T3">(University of Groningen)</span>
             </p>
             <p><strong class="talktitle">Primitive granularities and the context-dependence of partial/total adjectives</strong><br>
-            <span class="T1">Charlie Siu </span><span class="T4">(</span>Sun Yat-sen University<span class="T4">)</span>
+            <span class="T1">Charlie Siu </span><span class="T4">(</span>Sun Yat-sen University<span class="T4">) <img src="../inperson.svg" width = "15px"></span>
             </p>
         </td>
     </tr>
 </table>
 <h2>Thursday, July 20th</h2>
+<p><img src="../online.svg" width = "15px"> = online presenter(s) &nbsp; <img src="../inperson.svg" width = "15px"> = presenter(s) in person &nbsp; <img src="../inperson.svg" width = "15px"><img src="../online.svg" width = "15px"> = some presenters online and some in person</p> 
 <table border="0" cellspacing="0" cellpadding="0" class="Table">
     <tr>
         <td style="width:20%;" class="firstcol">
@@ -178,7 +181,7 @@ Download in [PDF](../schedule.pdf)
         <td style="text-align:left;width:5.3181in; " class="Table_cell">
             <p class="invited">
                 Invited talk<br>
-                <strong>Jacopo Romoli <span class="T3">(</span>Heinrich-Heine-Universität Düsseldorf<span class="T4">) and Yasutada Sudo <span class="T4">(UCL) </span></span></strong>
+                <strong>Jacopo Romoli <span class="T3">(</span>Heinrich-Heine-Universität Düsseldorf<span class="T4">) and Yasutada Sudo <span class="T4">(UCL) </span></span> <img src="../inperson.svg" width = "15px"></strong>
             </p>
         </td>
     </tr>
@@ -204,11 +207,11 @@ Download in [PDF](../schedule.pdf)
             <p class="CellHeader">Talk session <span class="T7">3</span></p>
             <p class="P13">
             <strong class="talktitle">Putting bare plurals into context</strong><br>
-            Yizhen Jiang and Yasutada Sudo <span class="T4">(UCL)</span>
+            Yizhen Jiang and Yasutada Sudo <span class="T4">(UCL) <img src="../inperson.svg" width = "15px"></span>
             </p>
             <p>
             <strong class="talktitle">Sources of homogeneity in kind predication</strong><br>
-            Janek Guerrini <span class="T4">(ENS/PSL)</span>
+            Janek Guerrini <span class="T4">(ENS/PSL) <img src="../inperson.svg" width = "15px"></span>
             </p>
         </td>
     </tr>
@@ -234,15 +237,17 @@ Download in [PDF](../schedule.pdf)
             <p class="CellHeader">Squib session <span class="T1">3</span></p>
             <p class="P13">
             <strong class="talktitle">Homogeneity as a diagnostic tool for evaluating semantic analyses of distributive markers</strong><br>
-            <span class="T2">Ana Bosnic </span><span class="T3">(Utrecht University)</span><span class="T2">, Jennifer Spenader </span><span class="T3">(</span>Rjksuniversiteit Groningen<span class="T4">)</span><span class="T2"> and Hamida Demirdache </span><span class="T3">(Nantes Université)</span>
+            <span class="T2">Ana Bosnic </span><span class="T3">(Utrecht University)</span><span class="T2">, Jennifer Spenader </span><span class="T3">(</span>Rjksuniversiteit Groningen<span class="T4">)</span><span class="T2"> and Hamida Demirdache </span><span class="T3">(Nantes Université)
+            <img src="../inperson.svg" width = "15px"><img src="../online.svg" width = "15px">
+            </span>
             </p>
             <p class="P13">
             <strong class="talktitle">Can Dou Collapse Homogeneity?</strong><br>
-            Zeqi Zhao <span class="T4">(University of G</span><span class="T5">öttingen)</span>
+            Zeqi Zhao <span class="T4">(University of G</span><span class="T5">öttingen) <img src="../inperson.svg" width = "15px"></span>
             </p>
             <p>
             <strong class="talktitle">Homogeneity effects are motivated by communicative efficiency</strong><br>
-            Omri Amiraz (HUJI)
+            Omri Amiraz (HUJI) <img src="../inperson.svg" width = "15px">
             </p>
         </td>
     </tr>
@@ -268,11 +273,14 @@ Download in [PDF](../schedule.pdf)
             <p class="CellHeader">Talk session <span class="T1">4</span></p>
             <p>
             <strong class="talktitle">Counterfactuals (not) under discussion</strong><br>
-            Sonia Ramotowska <span class="T4">(UCL)</span>, Paul Marty <span class="T4">(University of Malta)</span>, Jacopo Romoli <span class="T4">(</span><span class="T1">Heinrich-Heine-Universität Düsseldorf</span><span class="T4">)</span> and Paolo Santorio <span class="T4">(</span><span class="T6">University of Maryland</span><span class="T4">)</span>
+            Sonia Ramotowska <span class="T4">(UCL)</span>, Paul Marty <span class="T4">(University of Malta)</span>, Jacopo Romoli <span class="T4">(</span><span class="T1">Heinrich-Heine-Universität Düsseldorf</span><span class="T4">)</span> and Paolo Santorio <span class="T4">(</span><span class="T6">University of Maryland</span><span class="T4">)
+            <img src="../inperson.svg" width = "15px"><img src="../online.svg" width = "15px">
+            </span>
             </p>
             <p>
             <strong class="talktitle">An experimental investigation of implicature and homogeneity approaches to free choice</strong><br>
             Lyn Tieu (University of Toronto), Cory Bill (ZAS) and Jacopo Romoli (Heinrich-Heine-Universität Düsseldorf)
+            <img src="../inperson.svg" width = "15px"><img src="../online.svg" width = "15px">
             </p>
         </td>
     </tr>
