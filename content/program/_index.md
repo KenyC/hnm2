@@ -66,7 +66,7 @@ Download in [PDF](../schedule.pdf)
             <p class="CellHeader">Talk session 1</p>
             <p class="P13">
             <strong class="talktitle">Similative and Coordinative Compound Plurals in Persian: Alternatives, Homogeneity, or Strongest Meanings?</strong><br>
-            Fereshteh Modarresi <span class="T4">and</span> Manfred Krifka <span class="T4">(ZAS) <img src="../online.svg" width = "15px"></span>
+            Fereshteh Modarresi <span class="T4">and</span> Manfred Krifka <span class="T4">(ZAS) <img src="../inperson.svg" width = "15px"><img src="../online.svg" width = "15px"></span>
             </p>
             <p>
             <strong class="talktitle">Homogeneity, Negation, and Neglect Zero</strong><br>
@@ -161,6 +161,7 @@ Download in [PDF](../schedule.pdf)
             <p class="CellHeader">Squib session 2</p>
             <p><strong class="talktitle">Homogeneity in sentences with plural definites: rethinking non-maximal readings</strong><br>
             Flavia Nährlich<span class="T2"> </span><span class="T3">(University of Groningen)</span>
+            <img src="../inperson.svg" width = "15px">
             </p>
             <p><strong class="talktitle">Primitive granularities and the context-dependence of partial/total adjectives</strong><br>
             <span class="T1">Charlie Siu </span><span class="T4">(</span>Sun Yat-sen University<span class="T4">) <img src="../inperson.svg" width = "15px"></span>
@@ -238,7 +239,7 @@ Download in [PDF](../schedule.pdf)
             <p class="P13">
             <strong class="talktitle">Homogeneity as a diagnostic tool for evaluating semantic analyses of distributive markers</strong><br>
             <span class="T2">Ana Bosnic </span><span class="T3">(Utrecht University)</span><span class="T2">, Jennifer Spenader </span><span class="T3">(</span>Rjksuniversiteit Groningen<span class="T4">)</span><span class="T2"> and Hamida Demirdache </span><span class="T3">(Nantes Université)
-            <img src="../inperson.svg" width = "15px"><img src="../online.svg" width = "15px">
+            <img src="../online.svg" width = "15px">
             </span>
             </p>
             <p class="P13">
